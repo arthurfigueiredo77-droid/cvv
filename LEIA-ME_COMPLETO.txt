@@ -1,0 +1,14 @@
+Pacote completo atualizado.
+
+Inclui:
+- index.html com título dinâmico por obra
+- PDF profissional com ajuste automático
+- netlify/functions/planilha.js atualizado para Google Sheets CSV
+- netlify.toml configurado
+
+Estrutura correta:
+index.html
+netlify.toml
+netlify/functions/planilha.js
+
+No GitHub, envie exatamente essa estrutura para a raiz do repositório.

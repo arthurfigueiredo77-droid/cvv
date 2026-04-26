@@ -1,0 +1,18 @@
+Versão corrigida para carregamento automático online.
+
+Inclui:
+- index.html chamando /.netlify/functions/planilha ao abrir
+- atualização automática a cada 5 minutos
+- status online/loading/erro
+- função netlify/functions/planilha.js atualizada para Google Sheets CSV
+- netlify.toml correto
+
+Depois de subir no GitHub, confirme a estrutura:
+index.html
+netlify.toml
+netlify/functions/planilha.js
+
+Teste:
+https://SEU-SITE.netlify.app/.netlify/functions/planilha
+
+Se retornar ok:true, abra o site normal.

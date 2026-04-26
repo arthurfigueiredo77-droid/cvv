@@ -1,0 +1,7 @@
+Versão final:
+- Quando apenas uma obra estiver selecionada, o título passa a exibir: | OBRA: NOME
+- Quando nenhuma, todas ou mais de uma obra estiver selecionada, o título fica sem complemento.
+- O PDF profissional respeita o título com a obra selecionada e reduz a fonte automaticamente para caber no cabeçalho.
+
+Publicação:
+Envie todos os arquivos para a raiz do repositório GitHub e faça o deploy no Netlify.
